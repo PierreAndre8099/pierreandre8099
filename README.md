@@ -11,8 +11,6 @@ I'm Pierre-Andre Pierssol — Blockchain Development Enthusiast
 - [Solana NFT Marketplace](https://github.com/PierreAndre8099/Solana-NFT-Marketplace-by-CandyMachine) — Description
 <!-- - [Your DApp UI](link) — Description -->
 
-## GitHub Stats
-![YourGitHubStats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pierre-andre-172a9a34)  
