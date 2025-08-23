@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm Pierre-Andre Pierssol — Blockchain Development Enthusiast
 
-![Blockchain Developer](https://img.shields.io/badge/Blockchain-|-DApp|Solidity|Web3-blue?style=for-the-badge&logo=ethereum&logoColor=white)
+![Blockchain Developer](https://img.shields.io/badge/Blockchain-%7C-DApp%7CSolidity%7CWeb3-blue?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 ## About Me
 - Passionate about building decentralized applications and smart contract infrastructure.
