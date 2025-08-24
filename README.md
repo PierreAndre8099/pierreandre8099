@@ -12,6 +12,3 @@ I'm Pierre-Andre Pierssol — Blockchain Development Enthusiast
 - [Web3 Casino Crash Game](https://github.com/PierreAndre8099/Web3-Casino-Crash-Game)
 <!-- - [Your DApp UI](link) — Description -->
 
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pierre-andre-172a9a34)  
