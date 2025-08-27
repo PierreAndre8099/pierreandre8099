@@ -8,7 +8,7 @@ I'm Pierre-Andre Pierssol — Blockchain Development Enthusiast
 - Currently exploring **Solidity**, **Web3.js**, and **Rust** for blockchain.
 #### Github Stats 📊
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=PatrickAlphaC)](https://github.com/anuraghazra/github-readme-stats)
+[![Pierre's github stats](https://github-readme-stats.vercel.app/api?username=pierreandre8099)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pinned Projects
 - [Solana NFT Marketplace](https://github.com/PierreAndre8099/Solana-NFT-Marketplace-by-CandyMachine)
